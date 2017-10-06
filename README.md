@@ -1,5 +1,7 @@
 # prependify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pguth/prependify.svg)](https://greenkeeper.io/)
+
 > Prepend your Browserify generated bundle with any given text.
 
 ## Install
