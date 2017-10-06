@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/pguth/prependify",
   "dependencies": {
-    "through2": "^0.6.5"
+    "through2": "^2.0.3"
   },
   "keywords": [
     "prepend",
@@ -27,6 +27,6 @@
     "browserify"
   ],
   "devDependencies": {
-    "standard": "^8.5.0"
+    "standard": "^10.0.3"
   }
 }
